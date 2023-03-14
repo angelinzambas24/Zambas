@@ -67,3 +67,4 @@ document.querySelector("form").addEventListener("submit", function (e) {
     e.preventDefault(); // Prevent form submission if validation fails
   }
 });
+
